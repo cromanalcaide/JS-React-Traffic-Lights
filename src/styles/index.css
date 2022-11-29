@@ -29,9 +29,6 @@
 }
 
 
-
-
-
 .redOff {
     margin-top: 20px;
     margin-bottom: 7px;
@@ -40,6 +37,16 @@
     background-color: red;
     border-radius: 50%;
 
+}
+
+.redOn {
+    margin-top: 20px;
+    margin-bottom: 7px;
+    height: 200px;
+    width: 200px;
+    background: red;
+    border: 3px white 2 px solid;
+    border-radius: 50%;
 }
 
 .orangeOff {
@@ -59,14 +66,3 @@
     border-radius: 50%;
 }
 
-
-
-.Blanquito {
-    margin-top: 20px;
-    margin-bottom: 7px;
-    height: 200px;
-    width: 200px;
-    background: red;
-    border: 3px white 2 px solid;
-    border-radius: 50%;
-}
